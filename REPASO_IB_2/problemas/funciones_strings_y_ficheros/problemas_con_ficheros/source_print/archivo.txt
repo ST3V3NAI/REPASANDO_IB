@@ -1,0 +1,4 @@
+Hola, este es un archivo de prueba.
+Contiene varias líneas de texto.
+Este texto se usará para probar la función SourcePrint.
+¡Si ves esto en consola, todo está funcionando bien!

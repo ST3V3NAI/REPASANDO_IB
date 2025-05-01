@@ -1,0 +1,5 @@
+1: Este es un fichero de entrada
+2: 
+3: que contiene dos lienas
+4: 
+5: en blanco

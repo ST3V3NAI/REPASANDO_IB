@@ -1,0 +1,5 @@
+Este es un fichero de entrada
+
+que contiene
+
+dos lineas en blanco. 

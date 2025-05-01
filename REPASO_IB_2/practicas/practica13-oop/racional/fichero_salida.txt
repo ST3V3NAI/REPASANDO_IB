@@ -1,0 +1,6 @@
+Suma: 19 / 12
+Resta: -1 / 12
+Multiplicación: 5 / 8
+División: 9 / 10
+Es mayor 3 / 4 que 5 / 6 ? Si lo es
+
